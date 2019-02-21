@@ -3,7 +3,7 @@ from dns import resolver, reversename
 import time
 
 list = []
-for line in open('''your_file_name.txt''', 'r'):
+for line in open('ip_addresses.txt', 'r'):
 	list.append(line.strip())
 
 print("\nResolving IP addresses...\n")
