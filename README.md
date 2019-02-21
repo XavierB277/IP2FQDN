@@ -1,4 +1,4 @@
-# IP_To_FQDN
+# IP2FQDN
 This script can be used to identify the Fully Qualified Domain Name (FQDN) to multiple IP addresses within a file.
 Major Steps:
 + Enusre that DNSPython has been installed to your machine.
